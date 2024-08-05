@@ -6,6 +6,7 @@
     <title>Kuriosapodden</title>
     <!-- Länka till den externa CSS-filen -->
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
 
@@ -18,7 +19,6 @@
     <a href="index.html" class="active">Hem</a>
     <a href="about.html">Om Oss</a>
     <a href="episodes.html">Avsnitt</a>
-    <a href="#contact">Kontakt</a>
 </nav>
 
 <div class="content">
@@ -27,34 +27,69 @@
         <p>V</p>
     </section>
 
-    <section id="test-episodes">
-        <h2>Hör ett smakprov!</h2>
-
+    
+    <!-- Du kan lägga till en lista av avsnitt eller senaste nyheter här -->
+    <!-- Här är ett exempel på en enkel lista -->
+    <section id="latest-episodes">
+        <h2>Senaste Avsnitten</h2>
         <div class="episode">
-            <h3>Avsnitt 2: Humoralpatologi och miasmateori</h3>
-            <p>Lyssna på ett smakprov av när Anton och Tim behandlar forna medicinska teorier!</p>
-            <audio controls>
-                <source src="episode10.mp3" type="audio/mpeg">
-                Din webbläsare stödjer inte ljudspelaren.
-            </audio>
+            <img src="images/Episode3.jpeg" alt="Bild för Avsnitt 3">
+            <div class="episode-content">
+                <h3>Avsnitt 3: UFO-incidenter</h3>
+                <p>Lyssna på ett smakprov av när Anton och Tim behandlar forna medicinska teorier!</p>
+                <audio controls>
+                    <source src="episode10.mp3" type="audio/mpeg">
+                    Din webbläsare stödjer inte ljudspelaren.
+                </audio>
+            </div>
         </div>
 
         <div class="episode">
-            <h3>Avsnitt 3: UFO-incidenter</h3>
-            <p>Lyssna på ett smakprov av när Anton och Tim berättar om olika UFO-incidenter!</p>
-            <audio controls>
-                <source src="episode9.mp3" type="audio/mpeg">
-                Din webbläsare stödjer inte ljudspelaren.
-            </audio>
+            <img src="images/Episode2.jpg" alt="Bild för Avsnitt 2">
+            <div class="episode-content">
+                <h3>Avsnitt 2: Humoralpatologi och miasmateori</h3>
+                <p>Lyssna på ett smakprov av när Anton och Tim behandlar forna medicinska teorier!</p>
+                <audio controls>
+                    <source src="episode10.mp3" type="audio/mpeg">
+                    Din webbläsare stödjer inte ljudspelaren.
+                </audio>
+            </div>
         </div>
 
-        <!-- Lägg till fler avsnitt här -->
+        <div class="episode">
+            <img src="images/Episode1.jpg" alt="Bild för Avsnitt 1">
+            <div class="episode-content">
+                <h3>Avsnitt 1: Sentinelesöarna</h3>
+                <p>Lyssna på ett smakprov av när Anton och Tim berättar om olika UFO-incidenter!</p>
+                <audio controls>
+                    <source src="episode9.mp3" type="audio/mpeg">
+                    Din webbläsare stödjer inte ljudspelaren.
+                </audio>
+            </div>
+        </div>
     </section>
 </div>
 
 <footer>
-    <p>© 2024 Kuriosa. Alla rättigheter förbehållna.</p>
+    <div class="footer-content">
+        <div class="social-icons">
+            <a href="https://facebook.com/dinpodcast" target="_blank" class="social-icon">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href="https://twitter.com/dinpodcast" target="_blank" class="social-icon">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://instagram.com/dinpodcast" target="_blank" class="social-icon">
+                <i class="fab fa-instagram"></i>
+            </a>
+            <a href="https://linkedin.com/company/dinpodcast" target="_blank" class="social-icon">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+        <p>© 2024 Kuriosa. Alla rättigheter förbehållna.</p>
+    </div>
 </footer>
+
 
 </body>
 </html>
