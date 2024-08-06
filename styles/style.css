@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
+    background-color: aliceblue;
 }
 
 header {
@@ -23,6 +24,10 @@ nav a {
     margin: 0 15px;
     text-decoration: none;
     color: #4CAF50;
+}
+
+nav a:visited {
+    color:#4CAF50;
 }
 
 nav a.active {
@@ -50,6 +55,9 @@ nav a.active {
     font-size: 24px;
     transition: color 0.3s;
 }
+.social-icon:visited {
+    color:#fff;
+}
 
 .social-icon:hover {
     color: #333;
@@ -60,7 +68,6 @@ footer {
     background-color: #4CAF50;
     color: #fff;
     padding: 10px 0;
-    position: fixed;
     width: 100%;
     bottom: 0;
 }
