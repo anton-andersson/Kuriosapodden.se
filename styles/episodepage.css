@@ -79,12 +79,12 @@ a:visited {
 /* Specifik stil för sociala medie-ikoner */
 .social-icon {
     text-decoration: none;
-    color: white; /* Bibehåll den vita färgen för ikoner */
+    color: #6C191C; /* Bibehåll den vita färgen för ikoner */
     margin: 0 5px;
     font-size: 24px;
     transition: color 0.3s;
 }
 
 .social-icon:hover {
-    color: #ddd; /* Ljusare färg på hovring för ikoner */
+    color: #453121; /* Ljusare färg på hovring för ikoner */
 }
