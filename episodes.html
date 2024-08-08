@@ -29,28 +29,42 @@
         <h2>Avsnitt av Kuriosa!</h2>
         <p>Samtliga avsnitt finns där poddar finns! Nedan följer avsnittsbeskrivning, indexering, källhänvisningar osv.!</p>
     </section>
+    <section id="categories">
+        <h2>Kategorier:</h2>
+        <div class="category-buttons">
+            <button onclick="filterEpisodes('all')">Allt</button>
+            <button onclick="filterEpisodes('conspiracy')">Konspirationer</button>
+            <button onclick="filterEpisodes('culture')">Kultur</button>
+            <button onclick="filterEpisodes('history')">Historia</button>
+            <!-- Lägg till fler kategorier här -->
+        </div>
+    </section>
 
     <section id="episodes">
         <h2>Avsnitt:</h2>
         <div class="episode-grid">
             <!-- Lägg till fler avsnitt här -->
-            <a href="episodes/episode3.html" class="episode">
-                <img src="images/Episode3.jpeg" alt="Bild för Avsnitt 3">
-                <h3>Avsnitt 3: UFO-incidenter</h3>
-                <p>Efter att kommit igång igen efter 5 års vila följer här ett avsnitt om olika incidenter folk har haft med påstådda UFOn!</p>
-            </a>
-
-            <a href="episodes/episode2.html" class="episode">
-                <img src="images/Episode2.jpg" alt="Bild för Avsnitt 2">
-                <h3>Avsnitt 2: Humoralpatologi och miasmateori</h3>
-                <p>I det andra avsnittet, som kom 5 år efter pilotavsnittet pratar vi om forna medicinska teorier!</p>
-            </a>
-
-            <a href="episodes/episode1.html" class="episode">
-                <img src="images/Episode1.jpg" alt="Bild för Avsnitt 1">
-                <h3>Avsnitt 1: Sentinelesöarna</h3>
-                <p>I poddens pilotavsnitt behandlar vi norra sentinelsöns urbefolkning och deras historiska kontakter med övriga världen!</p>
-            </a>
+            <div class="episode" data-category="conspiracy history">
+                <a href="episodes/episode3.html">
+                    <img src="images/Episode3.jpeg" alt="Bild för Avsnitt 3">
+                    <h3>Avsnitt 3: UFO-incidenter</h3>
+                    <p>Efter att kommit igång igen efter 5 års vila följer här ett avsnitt om olika incidenter folk har haft med påstådda UFOn!</p>
+                </a>
+            </div>
+            <div class="episode" data-category="history">
+                <a href="episodes/episode2.html">
+                    <img src="images/Episode2.jpg" alt="Bild för Avsnitt 2">
+                    <h3>Avsnitt 2: Humoralpatologi och miasmateori</h3>
+                    <p>I det andra avsnittet, som kom 5 år efter pilotavsnittet pratar vi om forna medicinska teorier!</p>
+                </a>
+            </div>
+            <div class="episode" data-category="culture">
+                <a href="episodes/episode1.html" class="episode">
+                    <img src="images/Episode1.jpg" alt="Bild för Avsnitt 1">
+                    <h3>Avsnitt 1: Sentinelesöarna</h3>
+                    <p>I poddens pilotavsnitt behandlar vi norra sentinelsöns urbefolkning och deras historiska kontakter med övriga världen!</p>
+                </a>
+            </div>
         </div>
     </section>
 </div>
@@ -75,6 +89,6 @@
     </div>
 </footer>
 
-
+<script src="scripts/script.js"></script>
 </body>
 </html>

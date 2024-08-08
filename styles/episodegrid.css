@@ -5,6 +5,7 @@
     gap: 20px;
 }
 
+
 .episode-grid .episode {
     display: block;
     text-decoration: none;
@@ -31,4 +32,29 @@
 
 .episode-grid .episode p {
     margin: 0 10px 10px 10px;
+}
+.episode-grid .episode a {
+    color: #333;
+    text-decoration: none;
+}
+
+/* Styr kategori-knapparna */
+.category-buttons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.category-buttons button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.category-buttons button:hover {
+    background-color: #45a049;
 }

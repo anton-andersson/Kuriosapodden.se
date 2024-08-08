@@ -10,7 +10,7 @@
 }
 
 .overlay {
-    background-color: rgba(0, 0, 0, 0.5); /* Svart toning med 50% opacitet */
+    background-color: rgba(0, 0, 0, 0.6); /* Svart toning med 60% opacitet */
     padding: 20px;
     border-radius: 10px;
 }
