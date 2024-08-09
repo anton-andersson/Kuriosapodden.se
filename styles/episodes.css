@@ -45,7 +45,7 @@
 }
 
 .category-buttons button {
-    background-color: #4CAF50;
+    background-color: #6C191C;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -56,5 +56,5 @@
 }
 
 .category-buttons button:hover {
-    background-color: #45a049;
+    background-color: #453121;
 }
