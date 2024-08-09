@@ -15,8 +15,24 @@
     border-radius: 10px;
 }
 
-.overlay h2,
+.overlay h2, .overlay h3,
 .overlay p {
+    color: #fff;
+}
+
+.overlay .social-icon {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 5px;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+.overlay .social-icon:hover {
+    color: #453121;
+}
+
+.overlay .social-icon:visited {
     color: #fff;
 }
 
