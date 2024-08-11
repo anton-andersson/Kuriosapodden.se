@@ -1,3 +1,23 @@
+/* Overlay och styrningar för social*/
+.overlay {
+    background-color: rgba(0, 0, 0, 0.6); /* Svart toning med 60% opacitet */
+    padding: 20px;
+    border-radius: 10px;
+}
+.overlay p {
+    color: #fff;
+}
+
+.overlay-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.overlay-content social-image {
+    padding-right: 0;
+
+}
 
 /* Traditionell layout för startsidan */
 .episode {
