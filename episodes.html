@@ -37,6 +37,7 @@
         <h2>Kategorier:</h2>
         <div class="category-buttons">
             <button onclick="filterEpisodes('all')">Allt</button>
+            <button onclick="filterEpisodes('psychology')">Psykologi</button>
             <button onclick="filterEpisodes('conspiracy')">Konspirationer</button>
             <button onclick="filterEpisodes('culture')">Kultur</button>
             <button onclick="filterEpisodes('history')">Historia</button>
@@ -48,6 +49,13 @@
         <h2>Avsnitt:</h2>
         <div class="episode-grid">
             <!-- Lägg till fler avsnitt här -->
+            <div class="episode" data-category="history psychology">
+                <a href="episodes/episode4.html">
+                    <img src="images/Episode4.jpg" alt="Bild för Avsnitt 4">
+                    <h3>Avsnitt 4: Masshysteri</h3>
+                    <p>I poddens fjärde avsnitt, andra efter namnbytet till kuriosa, behandlar Tim och Anton masshysteri genom historien!</p>
+                </a>
+            </div>
             <div class="episode" data-category="conspiracy">
                 <a href="episodes/episode3.html">
                     <img src="images/Episode3.jpeg" alt="Bild för Avsnitt 3">
@@ -66,7 +74,7 @@
                 <a href="episodes/episode1.html" class="episode">
                     <img src="images/Episode1.jpg" alt="Bild för Avsnitt 1">
                     <h3>Avsnitt 1: Sentinelesöarna</h3>
-                    <p>I poddens pilotavsnitt behandlar vi norra sentinelsöns urbefolkning och deras historiska kontakter med övriga världen!</p>
+                    <p>I poddens pilotavsnitt behandlar vi norra sentinelesöns urbefolkning och deras historiska kontakter med övriga världen!</p>
                 </a>
             </div>
         </div>
