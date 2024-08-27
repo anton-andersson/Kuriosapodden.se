@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Foglihten';
+  src: url('../fonts/FoglihtenNo07.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  font-family: 'Foglihten', Arial, sans-serif;
+  padding: 0;
+  color: #333;
+}
+
+
+/* homepage episode list */
+.home .episode-list {
+  padding: 20px;
+}
+.home .episode-preview {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+
+/* Navbar/header */
+.navbar {
+  padding: 20px;
+  text-align: center;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar * {
+  padding: 10px;
+}
