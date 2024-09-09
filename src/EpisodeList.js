@@ -33,9 +33,9 @@ const EpisodeList = (props) => {
   return (
     <div className="episode-list">
       {filteredEpisodes.map((episode) => (
-        <div className="episode-preview" key={episode.id}>
-          <Link to={`/episodes/${episode.id}`}>
-            <img src={require("" + episode.image)} alt="episode picture" />
+        <div className="episode-preview" key={episode.id} >
+          <Link to={`/episodes/${episode.id}`} style={{textDecoration: "none", padding: "0"}}>
+            <img src={require("" + episode.image)} alt="episode picture"/>
             <h2>{episode.title}</h2>
             <p>{episode.intro}</p>
             <p>{episode.date}</p>

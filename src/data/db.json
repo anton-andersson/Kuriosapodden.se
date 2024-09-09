@@ -235,14 +235,41 @@
       ],
       "image": "./images/Episode5.jpg",
       "text": [
-        "I detta, ovanligt fnittriga avsnitt, avsnitt börjar Anton med att förklara för lyssnaren vad norden innebär, därefter följer svammel om olika 'genrer' av folktro. När det till slut är utrett vad som är vad är det dags för själva avsnittet att börja.",
+        "I detta, ovanligt fnittriga, avsnitt börjar Anton med att förklara för lyssnaren vad norden innebär, därefter följer svammel om olika 'genrer' av folktro. När det till slut är utrett vad som är vad är det dags för själva avsnittet att börja.",
         "Tim börjar då med sin utläggning om vättar! Det är alltså inte bara vanliga hustomtar utan verkliga skadedjur som mest verkar störa och förstöra! Tim tar också lägligt upp den verkliga anledningen till varför Sverige tappade Bornholm till Danmark på 1600-talet!",
         "När tim har släppt sina vättar (Inte på riktigt, de återkommer senare...) så tar Anton vid och behandlar två olika väsen (Som för det otränade örat heter samma sak) som verkar med antingen skogsbruk eller lantmäteri på Gotland.",
         "När Bysen och Bysarna är utrett skulle man kunna tro att avsnittet är över men icke! Anton har nämligen till hans egna stora glädje äran att beskriva lyktgubben för lyssnaren!",
         "Också i avsnittet: Underjordiska 'miniatyrmänniskor', FNISS, Tim som inte lyssnar så noga, patriotism(mild), borttappade människor i skogen, Tim säger 'Egil Skallagrimssons saga' och mycket mera!"
       ],
       "sources": [
-        {}
+        {
+          "title": "Wikipedia - Folktro",
+          "url": "https://sv.wikipedia.org/wiki/Folktro"
+        },
+        {
+          "title": "Wikipedia - Bysen",
+          "url": "https://sv.wikipedia.org/wiki/Bysen"
+        },
+        {
+          "title": "Wikipedia - Lyktgubbe",
+          "url": "https://sv.wikipedia.org/wiki/Lyktgubbe"
+        },
+        {
+          "title": "Unga fakta - Bysen",
+          "url": "https://archive.is/20040615035214/http://www.commersen.se/ungafakta/naturvasen/oknytt/b/bysen.asp"
+        },
+        {
+          "title": "Skånes hembygdsförening - Folktro och sägner",
+          "url": "https://web.archive.org/web/20160909211409/http://www.hembygd.se/skane/files/2012/01/handledning_folktro.pdf"
+        },
+        {
+          "title": "NE - Vättar",
+          "url": "https://www.ne.se/uppslagsverk/encyklopedi/lång/vättar"
+        },
+        {
+          "title": "Kulturminnet - ",
+          "url": "https://kulturminnet.wordpress.com/2017/09/1"
+        }
       ],
       "sounds": [
         {

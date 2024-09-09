@@ -4,6 +4,7 @@ import Home from "./Home";
 import Episodes from "./Episodes";
 import FooterComp from "./FooterComp";
 import EpisodeDetails from "./EpisodeDetails";
+import About from "./About";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <div className="content">
           <Routes>
             <Route exact path="/" element={<Home />}></Route>
+            <Route exact path="/about" element={<About />}></Route>
             <Route exact path="/episodes" element={<Episodes />}></Route>
             <Route
               exact
