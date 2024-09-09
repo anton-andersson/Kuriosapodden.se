@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81291b82.css",
+    "main.js": "/static/js/main.004572e9.js",
+    "static/media/background.jpg": "/static/media/background.a49ce5c5473a6e285231.jpg",
+    "static/media/Episode2.jpg": "/static/media/Episode2.94942f38dbb1e4ba0b73.jpg",
+    "static/media/Episode1.jpg": "/static/media/Episode1.715dfbde278d2338c50b.jpg",
+    "static/media/FoglihtenNo07.otf": "/static/media/FoglihtenNo07.af484a1d4b35a0094ccf.otf",
+    "static/media/Episode5.jpg": "/static/media/Episode5.3cfc302a4470f0b0af40.jpg",
+    "static/media/Logo_400x400.png": "/static/media/Logo_400x400.48fe8d0c719bf1e5be08.png",
+    "static/media/Left_H.png": "/static/media/Left_H.cd62ca08058bf83ed1fd.png",
+    "static/media/Right_H.png": "/static/media/Right_H.56bc4c4d948b99a49186.png",
+    "static/media/Episode4.jpg": "/static/media/Episode4.ac4a8894a69e572e5921.jpg",
+    "static/media/Episode3.jpeg": "/static/media/Episode3.06be14c5328c8a1ba957.jpeg",
+    "index.html": "/index.html",
+    "main.81291b82.css.map": "/static/css/main.81291b82.css.map",
+    "main.004572e9.js.map": "/static/js/main.004572e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81291b82.css",
+    "static/js/main.004572e9.js"
+  ]
+}
