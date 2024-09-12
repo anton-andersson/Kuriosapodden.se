@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="header">
-        <h1>KURIOSA</h1>
+        <h1 style={{fontSize: "2.5em"}}>KURIOSA</h1>
       </div>
       <div className="links">
         <Link to="/">Home</Link>

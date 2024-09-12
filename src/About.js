@@ -4,7 +4,7 @@ const About = () => {
     <section id="mission">
       <h2>Varför Kuriosa?</h2>
         <p>Kuriosum (plural kuriosa), eller kuriositet, är något märkvärdigt eller egendomligt. Vid tal om samlingar används pluralformen kuriosa. Kuriosa förekommer även i ordsammansättningar. 
-            Ordet kuriosum kommer från latinets curiosum av curiosus. Curio´sus betyder "omsorgs­full" och "ny­fiken", medan cu´ra betyder "om­sorg". I det svenska språket finns det belägg för ordet kuriosum från 1800-talet. 
+            Ordet kuriosum kommer från latinets curiosum av curiosus. Curio'sus betyder "omsorgsfull" och "nyfiken", medan cu'ra betyder "omsorg". I det svenska språket finns det belägg för ordet kuriosum från 1800-talet. 
             Kuriosa som podcast kommer behandla otaliga ämnen och känslan kan efterliknas med att kliva in i en affär med krimskrams.</p>
             <a href="https://svenska.se/tre/?sok=kuriosum">Kuriosum i svenska ordlistor</a>
             <h2>Om podden</h2>        

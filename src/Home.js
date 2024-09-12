@@ -1,6 +1,8 @@
 import EpisodeList from "./EpisodeList";
+import MediaQuery, { useMediaQuery } from "react-responsive";
 
 const  Home= () => {
+  const isMobile = useMediaQuery({ query: "(max-width: 800px)" });
 
   return ( 
     <div className="home">
@@ -16,9 +18,9 @@ const  Home= () => {
         margin: "20px 0"
         }}>
         <div className="overlayText">
-          <h2>Lyssna!</h2>
-          <p>Podden distribueras av ACAST! Än så länge är det brist på sociala medier...</p>
-          <p>Lyssna på oss i någon av tjänsterna nedan:</p>
+          <h2 style={{color: "white",}}>Lyssna!</h2>
+          <p style={{color: "white",}}>Podden distribueras av ACAST! Än så länge är det brist på sociala medier...</p>
+          <p style={{color: "white",}}>Lyssna på oss i någon av tjänsterna nedan:</p>
           <a href="https://feeds.acast.com/public/shows/66b63f9d5f2de2802ac88892" target="_blank" class="social-icon">
           <i class="fa-solid fa-rss"></i>
           </a>
@@ -29,10 +31,14 @@ const  Home= () => {
               <i class="fab fa-deezer"></i>
           </a>
         </div>
-        <img src={require("" + "./images/Logo_400x400.png")} alt="kuriosa_logo" class="social-image" />
+        {!isMobile && <img src={require("" + "./images/Logo_400x400.png")} alt="kuriosa_logo" />}
       </div>
       <h2>Senaste avsnitten!</h2>
-      <EpisodeList amount={3} category="all"/>
+      <div className="landing-episodes">
+        <EpisodeList amount={3} category="all"/>
+      </div>
+      <h2>Lyssna nu!</h2>
+      <iframe src="https://embed.acast.com/66b63f9d5f2de2802ac88892?episode-order=desc&feed=true" frameBorder="0" width="100%" height="380px"></iframe>
     </div>
   );
 }

@@ -1,4 +1,7 @@
+import MediaQuery from "react-responsive";
+
 const FooterComp = () => {
+
   return (
     <div className="footer">
       <div className="footer-content">

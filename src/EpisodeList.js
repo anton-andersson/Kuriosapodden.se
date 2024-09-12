@@ -36,9 +36,11 @@ const EpisodeList = (props) => {
         <div className="episode-preview" key={episode.id} >
           <Link to={`/episodes/${episode.id}`} style={{textDecoration: "none", padding: "0"}}>
             <img src={require("" + episode.image)} alt="episode picture"/>
-            <h2>{episode.title}</h2>
-            <p>{episode.intro}</p>
-            <p>{episode.date}</p>
+            <div className="episode-preview-text">
+              <h2 style={{fontSize: "1.5em"}}>{episode.title}</h2>
+              <p>{episode.intro}</p>
+              <p>{episode.date}</p>
+            </div>
           </Link>
         </div>
       ))}
