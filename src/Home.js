@@ -34,7 +34,7 @@ const  Home= () => {
         {!isMobile && <img src={require("" + "./images/Logo_400x400.png")} alt="kuriosa_logo" />}
       </div>
       <h2>Senaste avsnitten!</h2>
-      <div className="landing-episodes">
+      <div className={isMobile ? "episode-grid": "landing-episodes"} style={isMobile ? {maxWidth: "700px"}: {}}>
         <EpisodeList amount={3} category="all"/>
       </div>
       <h2>Lyssna nu!</h2>

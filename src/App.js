@@ -20,6 +20,7 @@ function App() {
               path={"/episodes/:id"}
               element={<EpisodeDetails />}
             ></Route>
+            <Route path="*" element={<h1>404 - Denna sida finns inte! Prova någon av ovanstående. :)</h1>}></Route>
           </Routes>
         </div>
         <div className="footer">

@@ -1,10 +1,11 @@
-import MediaQuery from "react-responsive";
+import MediaQuery, { useMediaQuery } from "react-responsive";
 
 const FooterComp = () => {
+  const isMobile = useMediaQuery({ query: "(max-width: 800px)" });
 
   return (
     <div className="footer">
-      <div className="footer-content">
+      <div className="footer-content" style={isMobile ? {display: "flex", flexDirection: "column", justifyContent: "center", maxWidth: "300px", alignItems: "center"}: {maxWidth:"1200px"}}>
         <div className="social-icons">
           <a
             href="https://open.spotify.com/show/1FHMXyjuTJDPNwWgAh4MvM"
