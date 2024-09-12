@@ -9,7 +9,6 @@
   margin: 0;
   font-family: 'Foglihten', Arial, sans-serif;
   padding: 5px;
-  color: #333;
 }
 
 body {
@@ -122,6 +121,7 @@ body h3 {
 
 .navbar * {
   padding: 10px;
+  color: #333;
 }
 
 /* Footer */
