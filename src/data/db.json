@@ -1,0 +1,284 @@
+{
+  "episodes": [
+    {
+      "id": 1,
+      "title": "Avsnitt 1: Sentinelesöarna",
+      "intro": "I poddens pilotavsnitt behandlar vi norra sentinelesöns urbefolkning och deras historiska kontakter med övriga världen!",
+      "date": "2019-09-01",
+      "category": [
+        "culture"
+      ],
+      "image": "./images/Episode1.jpg",
+      "text": [
+        "Sentinelesöarna är kända för att vara en av de mest isolerade platserna på jorden, där ursprungsbefolkningen har levt i tusentals år utan kontakt med omvärlden. I detta avsnitt diskuterar vi öns historia och den fascinerande kulturen hos Sentineles-folket.",
+        "Fokus ligger på diverse kontakter som Storbrittanien, Indien och diverse privatpersoner har haft med ön och dess invånare."
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Norra sentineles-ön",
+          "url": "https://en.wikipedia.org/wiki/North_Sentinel_Island"
+        },
+        {
+          "title": "Utdrag ur bok om ön",
+          "url": "https://web.archive.org/web/20181124064650/https://scroll.in/article/903254/a-visit-to-north-sentinel-island-please-please-please-let-us-not-destroy-this-last-haven"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "license": "is licensed under a Attribution 3.0 United States License",
+          "description": "Broke For Free"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Avsnitt 2: Humarpatologi och miasmateori",
+      "intro": "I det andra avsnittet, som kom 5 år efter pilotavsnittet, pratar vi om forna medicinska teorier!",
+      "date": "2024-07-29",
+      "category": [
+        "history"
+      ],
+      "image": "./images/Episode2.jpg",
+      "text": [
+        "I detta avsnitt är det Anton som håller i stafettpinnen och det kan sammanfattas med att dagens läkekonst (sjukvård) med rätta ses som mycket förfinad i jämförelse med vad man trodde på förut! I detta avsnitt djupdyker vi i två teorier som var gällande i 2000 år och kollar på vad dessa bidrog med för så kallade operationer för att lösa dåtidens negativa hälsotillstånd.",
+        "Vi börjar med att behandla humoralpatologi, läran om att kroppen består av 4 kroppsvätskor som ställer till med oreda när de hamnar i obalans! De förklarar givetvis också olika temperament! Efter en grundläggande genomgång tittar vi lite på behandlingar som kunde administreras inom denna medicinska teori. Det blir åderlåtning, påsar med arsenik och spyor!",
+        "Efter att ha avhandlat humoralpatologin är det miasmateorins tur och där är det istället dålig luft som är boven!"
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Humorism",
+          "url": "https://en.wikipedia.org/wiki/Humorism"
+        },
+        {
+          "title": "Skrivelser av Hippokrates",
+          "url": "https://archive.org/details/hippocraticwriti0000hipp_a3h9/page/262/mode/1up"
+        },
+        {
+          "title": "The Hippocratic account of Mental Health: Humors and Human Temperament",
+          "url": "https://mhgcj.org/index.php/MHGCJ/article/view/83"
+        },
+        {
+          "title": "Short guide to humoral medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11543877/"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "license": "is licensed under a Attribution 3.0 United States License",
+          "description": "Broke For Free"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Avsnitt 3: UFO-incidenter",
+      "intro": "Efter att kommit igång igen efter 5 års vila följer här ett avsnitt om olika incidenter folk har haft med påstådda UFOn!",
+      "date": "2024-08-12",
+      "category": [
+        "conspiracy"
+      ],
+      "image": "./images/Episode3.jpeg",
+      "text": [
+        "I detta avsnitt har Tim och Anton båda tagit fram varsin påstådd UFO-sightings. Tim börjar med GOFAST-videon och tillhörande, tictac-liknande, oidentiferade farkoster. Här är det mycket amerikansk militär och senatutfrågningar!",
+        "Efter att Tim är klar tar Anton vid och behandlar 'the battle of los angeles' där ett slag utkämpades mot... INGEN!",
+        "Också i avsnittet: Tim säger F-12, EXTREMT HÖG HÖJD, foliehattar, UFO-'loger' och mycket mera!"
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Battle of Los Angeles",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Los_Angeles"
+        },
+        {
+          "title": "Wikipedia - Bombardment of Ellwood",
+          "url": "https://en.wikipedia.org/wiki/Bombardment_of_Ellwood"
+        },
+        {
+          "title": "Militarymuseum - Battle of LA",
+          "url": "www.militarymuseum.org/BattleofLA.html"
+        },
+        {
+          "title": "SanFran museum - Battle of LA",
+          "url": "https://web.archive.org/web/20070928095206/http://www.sfmuseum.net/hist9/aaf2.html"
+        },
+        {
+          "title": "LA times - Battle of LA",
+          "url": "https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a"
+        },
+        {
+          "title": "Wikipedia - UFO/OFF",
+          "url": "https://sv.m.wikipedia.org/wiki/Oidentifierat_flygande_föremål"
+        },
+        {
+          "title": "Wikipedia - Pentagon UFO videos",
+          "url": "https://en.m.wikipedia.org/wiki/Pentagon_UFO_videos"
+        },
+        {
+          "title": "US D.O.D. - Statement by the DoD on the Release of ...",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+        },
+        {
+          "title": "NY mag - Navy pilot who filmed 'tic tac' UFO speaks ...",
+          "url": "https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html"
+        },
+        {
+          "title": "PBS - UFO congressional hearing",
+          "url": "https://www.youtube.com/watch?app=desktop&v=Glw76YKuWCY"
+        },
+        {
+          "title": "Wikipedia - David Grusch-fallet",
+          "url": "https://sv.m.wikipedia.org/wiki/David_Grusch-fallet"
+        },
+        {
+          "title": "Thedebrief - Int. officials say US retreived craft ...",
+          "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "license": "is licensed under a Attribution 3.0 United States License",
+          "description": "Broke For Free"
+        },
+        {
+          "title": "Gimbal",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm",
+          "license": "This file is a work of a sailor or employee of the U.S. Navy, taken or made as part of that person's official duties. As a work of the U.S. federal government, it is in the public domain in the United States",
+          "description": "The First Official UAP Footage from the USG for Public Release"
+        },
+        {
+          "title": "Go Fast",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm",
+          "description": "Official USG Footage of UAP for Public Release",
+          "license": "This file is a work of a sailor or employee of the U.S. Navy, taken or made as part of that person's official duties. As a work of the U.S. federal government, it is in the public domain in the United States"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Avsnitt 4: Masshysteri",
+      "intro": "I poddens fjärde avsnitt, andra efter namnbytet till kuriosa, behandlar Tim och Anton masshysteri genom historien",
+      "date": "2024-08-26",
+      "category": [
+        "history",
+        "psychology"
+      ],
+      "image": "./images/Episode4.jpg",
+      "text": [
+        "Podden börjar med en en beskrivning av masshysteri av Anton som senare fortsätter med att gå genom två fall av nunnor som gör konstiga saker, i första exemplet jamar de till varandra och i det andra biter de varandra! För att få stopp på nunnorna användes olika grader av våld.",
+        "När Anton är klar går Tim genom danssjukan och kollar specifikt på utbrottet i Strasbourg! Här är det istället dansen som sprider sig som ett virus mellan individer och till och med städer.",
+        "Också i avsnittet: Piskor och påkar, amerikanska diplomater, magiska svampar, Tim pratar om skumma typer i parker och mycket mera!"
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Masshysteri",
+          "url": "https://sv.wikipedia.org/wiki/Masshysteri"
+        },
+        {
+          "title": "Wikipedia - Mass psychogenic illness",
+          "url": "https://en.wikipedia.org/wiki/Mass_psychogenic_illness"
+        },
+        {
+          "title": "Zimmermann - Solitude, 1799",
+          "url": "https://archive.org/details/bim_eighteenth-century_ber-die-einsamkeit-en_zimmermann-johann-georg_1799_2/"
+        },
+        {
+          "title": "Zimmermann - Solitude, 1840",
+          "url": "https://archive.org/details/solitude00zimmiala/"
+        },
+        {
+          "title": "Hecker - The epidemics of the Middle Ages, 1844",
+          "url": "https://archive.org/details/epidemicsofmiddl1844heck/"
+        },
+        {
+          "title": "Craft - Epidemic Delusions, 1881",
+          "url": "https://archive.org/details/EpidemicDelusions/"
+        },
+        {
+          "title": "Wikipedia - Danssjuka",
+          "url": "https://sv.m.wikipedia.org/wiki/Danssjuka"
+        },
+        {
+          "title": "Runeberg - Ordbok från medeltiden",
+          "url": "https://runeberg.org/nfbe/0726.html"
+        },
+        {
+          "title": "BBC - Dancing death",
+          "url": "http://news.bbc.co.uk/today/hi/today/newsid_7608000/7608874.stm"
+        },
+        {
+          "title": "Wikipedia - Havana syndrome",
+          "url": "https://en.wikipedia.org/wiki/Havana_syndrome"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "description": "Broke For Free",
+          "license": "is licensed under a Attribution 3.0 United States License"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Avsnitt 5: Nordiska väsen",
+      "intro": "I det femte avsnittet av kuriosa pratar vi om olika väsen från den nordiska folktron!",
+      "date": "2024-09-09",
+      "category": [
+        "history",
+        "culture"
+      ],
+      "image": "./images/Episode5.jpg",
+      "text": [
+        "I detta, ovanligt fnittriga, avsnitt börjar Anton med att förklara för lyssnaren vad norden innebär, därefter följer svammel om olika 'genrer' av folktro. När det till slut är utrett vad som är vad är det dags för själva avsnittet att börja.",
+        "Tim börjar då med sin utläggning om vättar! Det är alltså inte bara vanliga hustomtar utan verkliga skadedjur som mest verkar störa och förstöra! Tim tar också lägligt upp den verkliga anledningen till varför Sverige tappade Bornholm till Danmark på 1600-talet!",
+        "När tim har släppt sina vättar (Inte på riktigt, de återkommer senare...) så tar Anton vid och behandlar två olika väsen (Som för det otränade örat heter samma sak) som verkar med antingen skogsbruk eller lantmäteri på Gotland.",
+        "När Bysen och Bysarna är utrett skulle man kunna tro att avsnittet är över men icke! Anton har nämligen till hans egna stora glädje äran att beskriva lyktgubben för lyssnaren!",
+        "Också i avsnittet: Underjordiska 'miniatyrmänniskor', FNISS, Tim som inte lyssnar så noga, patriotism(mild), borttappade människor i skogen, Tim säger 'Egil Skallagrimssons saga' och mycket mera!"
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Folktro",
+          "url": "https://sv.wikipedia.org/wiki/Folktro"
+        },
+        {
+          "title": "Wikipedia - Bysen",
+          "url": "https://sv.wikipedia.org/wiki/Bysen"
+        },
+        {
+          "title": "Wikipedia - Lyktgubbe",
+          "url": "https://sv.wikipedia.org/wiki/Lyktgubbe"
+        },
+        {
+          "title": "Unga fakta - Bysen",
+          "url": "https://archive.is/20040615035214/http://www.commersen.se/ungafakta/naturvasen/oknytt/b/bysen.asp"
+        },
+        {
+          "title": "Skånes hembygdsförening - Folktro och sägner",
+          "url": "https://web.archive.org/web/20160909211409/http://www.hembygd.se/skane/files/2012/01/handledning_folktro.pdf"
+        },
+        {
+          "title": "NE - Vättar",
+          "url": "https://www.ne.se/uppslagsverk/encyklopedi/lång/vättar"
+        },
+        {
+          "title": "Kulturminnet - ",
+          "url": "https://kulturminnet.wordpress.com/2017/09/1"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "description": "Broke For Free",
+          "license": "is licensed under a Attribution 3.0 United States License"
+        }
+      ]
+    }
+  ]
+}
