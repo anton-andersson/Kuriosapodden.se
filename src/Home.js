@@ -31,7 +31,7 @@ const  Home= () => {
           <a href="https://www.deezer.com/us/show/1001144521" target="_blank" class="social-icon">
               <i class="fab fa-deezer"></i>
           </a>
-          <p style={{color: "white",}}> Eller följ våran feed :</p>
+          <p style={{color: "white",}}> Eller följ våran feed:</p>
           <a href="https://feeds.acast.com/public/shows/66b63f9d5f2de2802ac88892" target="_blank" class="social-icon">
           <i class="fa-solid fa-rss"></i></a>
         </div>

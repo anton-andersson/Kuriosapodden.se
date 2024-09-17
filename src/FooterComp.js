@@ -50,7 +50,7 @@ const FooterComp = () => {
             <i className="fa-brands fa-github"></i>
           </a>
         </div>
-        <p>© 2024 Kuriosa. Alla rättigheter förbehållna.</p>
+        <p>© 2024 Anton Andersson. Alla rättigheter förbehållna.</p>
       </div>
     </div>
   );
