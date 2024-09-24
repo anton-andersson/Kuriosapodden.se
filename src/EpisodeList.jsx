@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import db from "./data/db.json";
 
 const EpisodeList = (props) => {
-  const [episodes, setEpisodes] = useState(db.episodes);
+  const episodes = db.episodes;
   const [currentCategory, setCategory] = useState(props.category);
 
   //Runs on the first render
@@ -35,7 +35,7 @@ const EpisodeList = (props) => {
       {filteredEpisodes.map((episode) => (
         <div className="episode-preview" key={episode.id} >
           <Link to={`/episodes/${episode.id}`} style={{textDecoration: "none", padding: "0"}}>
-            <img src={require("" + episode.image)} alt="episode picture"/>
+            <img src={"/src/" + episode.image} alt="episode picture"/>
             <div className="episode-preview-text">
               <h2 style={{fontSize: "1.5em"}}>{episode.title}</h2>
               <p>{episode.intro}</p>

@@ -7,7 +7,7 @@ const EpisodeDetails = () => {
 
   return (
     <section id="episode-background" style={{ 
-    backgroundImage:`url(${require("" + episode.image)})`,
+    backgroundImage:`url(/src/${episode.image})`,
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundAttachment: "fixed",
@@ -27,8 +27,8 @@ const EpisodeDetails = () => {
           (text, i) => 
           <p key={i} style={{color: "white"}}>{text}</p>)}
         <h3 style={{color: "white"}}>Lyssna!</h3>
+          
         <h3 style={{color: "white"}}>Källor</h3>
-        
         <ul >
           {episode.sources && episode.sources.map(
             (sources, i) =>

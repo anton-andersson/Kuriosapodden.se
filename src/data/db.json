@@ -279,6 +279,87 @@
           "license": "is licensed under a Attribution 3.0 United States License"
         }
       ]
+    },
+    {
+      "id": 6,
+      "title": "Avsnitt 6: Hemliga sällskap",
+      "intro": "I sjätte avsnittet är det dags för podden att behandla hemliga sällskap!",
+      "date": "2024-09-23",
+      "category": [
+        "culture",
+        "conspiracy"
+      ],
+      "image": "./images/Episode6.jpg",
+      "text": [
+        "I detta, ovanligt långa, avsnitt börjar Anton med sin rutinmässiga utläggning om definitioner och generella fakta! Först definieras hemliga sällskap och därefter följer en case study i hur ett fiktivt hemligt sällskap kan utvecklas genom historien!",
+        "När Anton äntligen är klar med sitt flum är det Tims tur och han har valt den svenska Frimurarorden. Är de snälla filantroper eller onda barnätare? Tim ger sig in i frågan!",
+        "När svenska frimurarorden är behandlad är det dags för Anton att ta vid och han har valt att behandla Illuminati. Men istället för att gå in på de vanliga konspirationsteorierna utforskar han istället illuminatis verkliga historia och går därför hela vägen tillbaka till 1776 och Bayern!",
+        "Till slut kommer ändå lite konspirationer om vad Illuminati kan tänkas syssla med idag!",
+        "När avsnittet börjar närma sig sitt slut kommer en sammanfattning om hur det går för de hemliga sällskapen idag.",
+        "Också i avsnittet: Civil olydnad i Stockholm, tidig mänsklig historia, Tim säger pediatrik och geriatrik, svenska kungar, cliffhangers och mycket mera!"
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Secret Society",
+          "url": "https://en.wikipedia.org/wiki/Secret_society"
+        },
+        {
+          "title": "Wikipedia - Illuminati",
+          "url": "https://en.wikipedia.org/wiki/Illuminati"
+        },
+        {
+          "title": "Wikipedia - Illuminati in popular culture",
+          "url": "https://en.wikipedia.org/wiki/Illuminati_in_popular_culture"
+        },
+        {
+          "title": "Wikipedia - New World Order conspiracy",
+          "url": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory#Illuminati"
+        },
+        {
+          "title": "BBC - Accidental invention of the Illuminati conspiracy",
+          "url": "https://www.bbc.com/future/article/20170809-the-accidental-invention-of-the-illuminati-conspiracy"
+        },
+        {
+          "title": "Alan Axelrod - The international encyclopedia of secret societies and fraternal orders",
+          "url": "https://archive.org/details/internationalenc00axel"
+        },
+        {
+          "title": "J. M. Roberts - The Mythology of the Secret Societies",
+          "url": "https://archive.org/details/mythologyofsecre0000robe"
+        },
+        {
+          "title": "Michael Barkun - A culture of conspiracy",
+          "url": "https://books.google.se/books?id=LiwjVsNBw-cC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false"
+        },
+        {
+          "title": "Barruel - Memoirs Illustrating The History Of Jacobinism",
+          "url": "https://archive.org/details/BarruelMemoirsIllustratingTheHistoryOfJacobinism"
+        },
+        {
+          "title": "John Robison - Proofs of a Conspiracy",
+          "url": "https://archive.org/details/proofsofconspira00r"
+        },
+        {
+          "title": "SR - Älskade broder",
+          "url": "https://sverigesradio.se/avsnitt/400257?programid=4703"
+        },
+        {
+          "title": "Wikipedia - Svenska Frimurarorden",
+          "url": "https://sv.m.wikipedia.org/wiki/Svenska_Frimurare_Orden"
+        },
+        {
+          "title": "Frimurarna",
+          "url": "https://frimurarorden.se"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "description": "Broke For Free",
+          "license": "is licensed under a Attribution 3.0 United States License"
+        }
+      ]
     }
   ]
 }

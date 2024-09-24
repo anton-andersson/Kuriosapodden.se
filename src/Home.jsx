@@ -22,20 +22,20 @@ const  Home= () => {
           <h2 style={{color: "white",}}>Lyssna!</h2>
           <p style={{color: "white",}}>Podden distribueras av ACAST! Än så länge är det brist på sociala medier...</p>
           <p style={{color: "white",}}>Lyssna på oss i någon av tjänsterna nedan:</p>
-          <a href="https://shows.acast.com/kuriosa" target="_blank" class="social-icon">
-          <i class="fa-solid fa-a"></i>
+          <a href="https://shows.acast.com/kuriosa" target="_blank" className="social-icon">
+          <i className="fa-solid fa-a"></i>
           </a>
-          <a href="https://open.spotify.com/show/1FHMXyjuTJDPNwWgAh4MvM" target="_blank" class="social-icon">
-              <i class="fab fa-spotify"></i>
+          <a href="https://open.spotify.com/show/1FHMXyjuTJDPNwWgAh4MvM" target="_blank" className="social-icon">
+              <i className="fab fa-spotify"></i>
           </a>
-          <a href="https://www.deezer.com/us/show/1001144521" target="_blank" class="social-icon">
-              <i class="fab fa-deezer"></i>
+          <a href="https://www.deezer.com/us/show/1001144521" target="_blank" className="social-icon">
+              <i className="fab fa-deezer"></i>
           </a>
           <p style={{color: "white",}}> Eller följ våran feed:</p>
-          <a href="https://feeds.acast.com/public/shows/66b63f9d5f2de2802ac88892" target="_blank" class="social-icon">
-          <i class="fa-solid fa-rss"></i></a>
+          <a href="https://feeds.acast.com/public/shows/66b63f9d5f2de2802ac88892" target="_blank" className="social-icon">
+          <i className="fa-solid fa-rss"></i></a>
         </div>
-        {!isMobile && <img src={require("" + "./images/Logo_400x400.png")} alt="kuriosa_logo" />}
+        {!isMobile && <img src="/src/images/Logo_400x400.png" alt="kuriosa_logo" />}
       </div>
       <h2>Senaste avsnitten!</h2>
       <div className={isMobile ? "episode-grid": "landing-episodes"} style={isMobile ? {maxWidth: "700px"}: {}}>
