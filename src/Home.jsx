@@ -35,7 +35,7 @@ const  Home= () => {
           <a href="https://feeds.acast.com/public/shows/66b63f9d5f2de2802ac88892" target="_blank" className="social-icon">
           <i className="fa-solid fa-rss"></i></a>
         </div>
-        {!isMobile && <img src="/src/images/Logo_400x400.png" alt="kuriosa_logo" />}
+        {!isMobile && <img src="/images/Logo_400x400.png" alt="kuriosa_logo" />}
       </div>
       <h2>Senaste avsnitten!</h2>
       <div className={isMobile ? "episode-grid": "landing-episodes"} style={isMobile ? {maxWidth: "700px"}: {}}>

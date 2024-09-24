@@ -7,7 +7,7 @@ const EpisodeDetails = () => {
 
   return (
     <section id="episode-background" style={{ 
-    backgroundImage:`url(/src/${episode.image})`,
+    backgroundImage:`url(/${episode.image})`,
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundAttachment: "fixed",
