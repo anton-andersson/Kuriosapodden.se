@@ -29,14 +29,14 @@ const FooterComp = () => {
             <i className="fab fa-discord"></i>
           </a>
           <a
-            href="https://twitter.com/"
+            href="https://x.com/kuriosapodd"
             target="_blank"
             className="social-icon"
           >
             <i className="fab fa-twitter"></i>
           </a>
           <a
-            href="https://instagram.com/"
+            href="https://www.instagram.com/kuriosapodden/"
             target="_blank"
             className="social-icon"
           >

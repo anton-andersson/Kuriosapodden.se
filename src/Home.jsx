@@ -20,7 +20,7 @@ const  Home= () => {
         }}>
         <div className="overlayText">
           <h2 style={{color: "white",}}>Lyssna!</h2>
-          <p style={{color: "white",}}>Podden distribueras av ACAST! Än så länge är det brist på sociala medier...</p>
+          <p style={{color: "white",}}>Podden distribueras av ACAST!</p>
           <p style={{color: "white",}}>Lyssna på oss i någon av tjänsterna nedan:</p>
           <a href="https://shows.acast.com/kuriosa" target="_blank" className="social-icon">
           <i className="fa-solid fa-a"></i>
@@ -34,6 +34,19 @@ const  Home= () => {
           <p style={{color: "white",}}> Eller följ våran feed:</p>
           <a href="https://feeds.acast.com/public/shows/66b63f9d5f2de2802ac88892" target="_blank" className="social-icon">
           <i className="fa-solid fa-rss"></i></a>
+          <p style={{color: "white"}}>Följ oss gärna också på sociala medier!:</p>
+          <a
+            href="https://x.com/kuriosapodd"
+            target="_blank"
+            className="social-icon">
+            <i className="fab fa-twitter"></i>
+          </a>
+          <a
+            href="https://www.instagram.com/kuriosapodden/"
+            target="_blank"
+            className="social-icon">
+            <i className="fab fa-instagram"></i>
+          </a>
         </div>
         {!isMobile && <img src="/images/Logo_400x400.png" alt="kuriosa_logo" />}
       </div>

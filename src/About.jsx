@@ -6,11 +6,11 @@ const About = () => {
         <p>Kuriosum (plural kuriosa), eller kuriositet, är något märkvärdigt eller egendomligt. Vid tal om samlingar används pluralformen kuriosa. Kuriosa förekommer även i ordsammansättningar. 
             Ordet kuriosum kommer från latinets curiosum av curiosus. Curio'sus betyder "omsorgsfull" och "nyfiken", medan cu'ra betyder "omsorg". I det svenska språket finns det belägg för ordet kuriosum från 1800-talet. 
             Kuriosa som podcast kommer behandla otaliga ämnen och känslan kan efterliknas med att kliva in i en affär med krimskrams.</p>
-            <a href="https://svenska.se/tre/?sok=kuriosum">Kuriosum i svenska ordlistor</a>
-            <h2>Om podden</h2>        
-            <p>Vår podcast strävar efter att leverera intressanta ämnen presenterade på ett underhållande sätt med den övergripande visionen att du alltid lärt dig något nytt efter ett avsnitt.
-            Målbilden är alltså inte att samtliga avsnitt ska tilltala samtliga lyssnare, se det som en buffé där man får välja och vraka mellan ämnen som tycks vara intressanta!
-            </p>
+        <a href="https://svenska.se/tre/?sok=kuriosum">Kuriosum i svenska ordlistor</a>
+        <h2>Om podden</h2>        
+        <p>Vår podcast strävar efter att leverera intressanta ämnen presenterade på ett underhållande sätt med den övergripande visionen att du alltid lärt dig något nytt efter ett avsnitt.
+        Målbilden är alltså inte att samtliga avsnitt ska tilltala samtliga lyssnare, se det som en buffé där man får välja och vraka mellan ämnen som tycks vara intressanta!
+        </p>
     </section>
 
     <section id="team">
@@ -24,8 +24,28 @@ const About = () => {
             <p>Värd och producent. Tim arbetar inom polismyndigheten och har även han en tidigare anställning inom försvarsmakten.</p>
         </div>
     </section>
+    <section id="contact">
+        <h2>Kontakt - Kommer snart</h2>
+        <p>Har du frågor, funderingar, avsnittsförslag, rättningar eller bara vill säga hej? </p>
+        <p>Kontakta oss på twitter/x, instagram eller via mejl.</p> 
+        <div className="social-icons">
+          <a
+            href="https://x.com/kuriosapodd"
+            target="_blank"
+            className="social-icon">
+            <i className="fab fa-twitter"></i>
+          </a>
+          <a
+            href="https://www.instagram.com/kuriosapodden/"
+            target="_blank"
+            className="social-icon">
+            <i className="fab fa-instagram"></i>
+          </a>
+        </div>
+        <a href="mailto:kuriosapodd@gmail.com" style={{fontFamily: "sans-serif"}}>kuriosapodd@gmail.com</a>
+    </section>
     </div>
-     );
+  );
 }
  
 export default About;

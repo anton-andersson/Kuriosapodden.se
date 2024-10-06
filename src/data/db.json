@@ -360,6 +360,36 @@
           "license": "is licensed under a Attribution 3.0 United States License"
         }
       ]
+    },
+    {
+      "id": 7,
+      "title": "Avsnitt 7: Sällsynta psykiska störningar",
+      "intro": "I poddens sjunde avsnitt pratar vi om olika psykologiska besvär, det blir split-brain och Munchausen!",
+      "date": "2024-10-07",
+      "category": [
+        "psychology"
+      ],
+      "image": "./images/Episode7.jpg",
+      "text": [
+        "I detta avsnitt av Kuriosa pratar Tim och Anton om varsin, ovanlig, psykisk störning. Det är Anton som börjar med sin rutinmässiga introduktion till ämnet men först har podden faktiskt en rättning på förra avsnittet om hemliga sällskap!",
+        "När Anton är klar så tar Tim vid och behandlar Munchausen by proxy, ett syndrom som innebär att man skadar folk för sin egen uppmärksamt. TIll skillnad från Munchausen där man söker upp sjukvård för sin egen del.",
+        "Efter Munchausen by proxy är det dags för split-brain där Anton tar vid och pratar om det mycket ovanliga kirurgiska ingrepp som innebär att man skär bort den största kopplingen mellan hjärnhalvorna. Detta görs för att behandla svår epilepsi och har givetvis en rad följdeffekter!",
+        "Också i avsnittet: Tim säger 'malingering by proxy', alien hand syndrome, Dr. House, modersinstinkt, fallskärmsjägare och mycket mera!"
+      ],
+      "sources": [
+        {
+          "title": "ahsd",
+          "url": "https://en.wikipedia.org/wiki/Alien_hand_syndrome"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "description": "Broke For Free",
+          "license": "is licensed under a Attribution 3.0 United States License"
+        }
+      ]
     }
   ]
 }
