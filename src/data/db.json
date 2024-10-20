@@ -378,8 +378,106 @@
       ],
       "sources": [
         {
-          "title": "ahsd",
+          "title": "Wikipedia - Psykisk störning",
+          "url": "https://sv.wikipedia.org/wiki/Psykisk_st%C3%B6rning"
+        },
+        {
+          "title": "Wikipedia - Mental disorder",
+          "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+        },
+        {
+          "title": "Mental health wales - What is serious mental illness?",
+          "url": "https://web.archive.org/web/20150325061546/http://www.mentalhealthwales.net/mhw/whatis.php"
+        },
+        {
+          "title": "World Health Organization - Mental disorders",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders"
+        },
+        {
+          "title": "Derek Bolton - What is mental disorder?",
+          "url": "https://books.google.se/books?id=Ohzt1HBilXcC&pg"
+        },
+        {
+          "title": "D. Coon, J. O. Mitterer - Introduction To Psychology",
+          "url": "https://perpus.univpancasila.ac.id/repository/EBUPT191172.pdf"
+        },
+        {
+          "title": "Wikipedia - Split brain",
+          "url": "https://en.wikipedia.org/wiki/Split-brain"
+        },
+        {
+          "title": "De haan, Corballis et al - Split-Brain: What We Know Now",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7305066/"
+        },
+        {
+          "title": "Eldrigde - Discovering the Unique Individuals Behind Split-Brain Patient Anonymity",
+          "url": "https://web.archive.org/web/20160304102136/http://people.uncw.edu/puente/405/PDFpapers/Split-brain%20Patients.pdf"
+        },
+        {
+          "title": "Holt, Bremer et al - Psychology The Science of Mind and Behaviour",
+          "url": "https://books.google.se/books/about/EBOOK_Psychology_The_Science_of_Mind_and.html?id=7MkvEAAAQBAJ&redir_esc=y"
+        },
+        {
+          "title": "Wikipedia - Corpus callosum",
+          "url": "https://en.wikipedia.org/wiki/Corpus_callosum"
+        },
+        {
+          "title": "Wikipedia - Corpus callosotomy",
+          "url": "https://en.wikipedia.org/wiki/Corpus_callosotomy"
+        },
+        {
+          "title": "Wikipedia - Alien hand syndrome",
           "url": "https://en.wikipedia.org/wiki/Alien_hand_syndrome"
+        },
+        {
+          "title": "Wikipedia - Roger Wolcott Sperry",
+          "url": "https://en.wikipedia.org/wiki/Roger_Wolcott_Sperry"
+        },
+        {
+          "title": "Michael Gazzaniga",
+          "url": "https://en.wikipedia.org/wiki/Michael_Gazzaniga"
+        },
+        {
+          "title": "Wikipedia - Münchhausen by proxy",
+          "url": "https://sv.m.wikipedia.org/wiki/M%C3%BCnchhausen_by_proxy"
+        },
+        {
+          "title": "Läkartidningen - Barnmisshandel genom förfalskning av symtom",
+          "url": "https://lakartidningen.se/wp-content/uploads/OldPdfFiles/2001/22905.pdf"
+        },
+        {
+          "title": "SR - Münchhausenfallet i Härnösand",
+          "url": "https://sverigesradio.se/grupp/46802"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "description": "Broke For Free",
+          "license": "is licensed under a Attribution 3.0 United States License"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Avsnitt 8: Exoplaneter",
+      "intro": "I det åttonde avsnittet är det dags att lämna historia och konspirationer för att istället behandla exoplaneter!",
+      "date": "2024-10-21",
+      "category": [
+        "science"
+      ],
+      "image": "./images/Episode8.jpg",
+      "text": [
+        "I detta avsnitt av Kuriosa bryter Tim och Anton Temat och pratar istället om exoplaneter! Tim börjar den här gången med en introduktion där han förklarar vilka krav som finns för att liv ska kunna finnas på en planet.",
+        "När Tim är klar med sin introduktion tar Anton vid och behandlar istället planeten Proxima Centauri B. En exoplanet som ligger runt solens närmsta granne. Trots sitt 'nära' avstånd till oss är det dock mycket som är oklart med planeten.",
+        "Efter att Anton rett ut sannolikheten för liv på sin planet är det Tims tur och han går då genom två olika planeter som upptäckts med kepler-teleskopet.",
+        "Också i avsnittet: Långa avstånd, bilar som kör i 100 km/h, Tim säger 'nutrition', Keplerteleskopet och mycket mera!"
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Exoplanet",
+          "url": "https://sv.wikipedia.org/wiki/"
         }
       ],
       "sounds": [

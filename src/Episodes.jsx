@@ -48,6 +48,13 @@ const Episodes = () => {
         >
           Historia
         </button>
+        <button
+          onClick={() => {
+            setCategory("science");
+          }}
+        >
+          Vetenskap
+        </button>
       </div>
       <h2>Avsnitt</h2>
       <div className="episode-grid">
