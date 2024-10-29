@@ -477,7 +477,31 @@
       "sources": [
         {
           "title": "Wikipedia - Exoplanet",
-          "url": "https://sv.wikipedia.org/wiki/"
+          "url": "https://en.wikipedia.org/wiki/Exoplanet"
+        },
+        {
+          "title": "NASA - What makes a planet habitable?",
+          "url": "https://seec.gsfc.nasa.gov/what_makes_a_planet_habitable.html#:~:text=The%20standard%20definition%20for%20a,water%2C%20energy%2C%20and%20nutrients"
+        },
+        {
+          "title": "NASA - NASAs Kepler Mission Discovers Bigger, Older Cousin to Earth",
+          "url": "https://www.nasa.gov/news-release/nasas-kepler-mission-discovers-bigger-older-cousin-to-earth/"
+        },
+        {
+          "title": "Rymdstyrelsen - Nya exoplaneter funna med hjälp av AI",
+          "url": "https://www.rymdstyrelsen.se/upptack-rymden/bloggen/2021/12/nya-exoplaneter-funna-med-hjalp-av-ai/#:~:text=Hittills%20har%20man%20kunnat%20konstatera,fr%C3%A5n%20det%20pensionerade%20Kepler-teleskopet.&text=De%20senaste%20tio%20%C3%A5ren%20har,om%20v%C3%A5ra%20grannar%20i%20galaxen"
+        },
+        {
+          "title": "Wikipedia - Proxima Centauri",
+          "url": "https://en.wikipedia.org/wiki/Proxima_Centauri"
+        },
+        {
+          "title": "Wikipedia - Alpha Centauri",
+          "url": "https://en.wikipedia.org/wiki/Alpha_Centauri"
+        },
+        {
+          "title": "Wikipedia - Proxima Centauri b",
+          "url": "https://en.wikipedia.org/wiki/Proxima_Centauri_b"
         }
       ],
       "sounds": [
@@ -486,6 +510,78 @@
           "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
           "description": "Broke For Free",
           "license": "is licensed under a Attribution 3.0 United States License"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Avsnitt 9: Halloween - Hemsökta platser",
+      "intro": "I poddens första special/extra-avsnitt behandlar Anton och tim Hemsökta platser!",
+      "date": "2024-10-31",
+      "category": [
+        "culture"
+      ],
+      "image": "./images/Episode9.jpg",
+      "text": [
+        "För första gången släpps ett avsnitt inte vart femte år, och inte varannan vecka, utan mitt mellan två avsnitt! Och detta för att fira halloween. Detta special/extra-avsnitt behandlar olika hemsökta platser.",
+        "Podden börjar med lite stämningsfull musik, som snabbt bryts när Anton inte kan hålla sig mer än 10 innan fnisset är i gång, och därefter är det dags för den rutinmässiga introduktionen. Denna gång beskrivs inte bara obskyr historia utan även nutid där statistik tas upp i form av en liten gissningslek.",
+        "När introduktionen är klar tar Tim vid och han pratar om vita husets olika legender och spökhistorier. Först ut är Abraham Lincoln som än idag tycks vandra i vita husets korridorer och rum. Han har bland annat setts av en naken, cigarrökande, antagligen lätt förfriskad, Winston Churchill!",
+        "Efter det så lämnar vi vita huset och USA för att röra oss till en förort utanför London. Där ägde 'världens mest dokumenterade' hemsökning rum under 70-talet. Anton, som behandlar ämnet, kan dock inte hålla tillbaka sin skeptiska sida och köper egentligen inte någon av de händelser som påstås ha inträffat.",
+        "Slutligen pratar Anton och Tim om deras egna hemsökta upplevelser där särskilt Anton vandrar genom en flashback från lumpen.",
+        "Också i avsnittet: Läskig musik, buktaleri, Tim säger 'cigarr', L-L-L-LYKTGUBBEN!!, amerikanska presidenter och mycket mera!"
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Enfield Poltergeist",
+          "url": "https://en.wikipedia.org/wiki/Enfield_poltergeist"
+        },
+        {
+          "title": "Wikipedia - Haunted House",
+          "url": "https://en.wikipedia.org/wiki/Haunted_house"
+        },
+        {
+          "title": "Wikipedia - Paranormal",
+          "url": "https://en.wikipedia.org/wiki/Paranormal"
+        },
+        {
+          "title": "Wikipedia - Ghostlore",
+          "url": "https://en.wikipedia.org/wiki/Ghostlore"
+        },
+        {
+          "title": "Wikipedia - Society for Psychical Research",
+          "url": "https://en.wikipedia.org/wiki/Society_for_Psychical_Research#"
+        },
+        {
+          "title": "Skeptical Inquirer - Enfield Poltergeist",
+          "url": "https://skepticalinquirer.org/2012/07/enfield-poltergeist/"
+        },
+        {
+          "title": "Telegraph - The Real story of the Enfield Haunting",
+          "url": "https://www.telegraph.co.uk/culture/tvandradio/11571607/The-real-story-of-the-Enfield-Haunting.html"
+        },
+        {
+          "title": "Gallup - Three/Four Americans Believe in Paranormal",
+          "url": "https://news.gallup.com/poll/16915/Three-Four-Americans-Believe-Paranormal.aspx"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "description": "Broke For Free",
+          "license": "is licensed under a Attribution 3.0 United States License"
+        },
+        {
+          "title": "This House",
+          "url": "https://incompetech.com/music/royalty-free/music.html",
+          "description": "Kevin MacLeod (incompetech.com)",
+          "license": "is licensed under a Attribution 4.0 Creative Commons License"
+        },
+        {
+          "title": "Enfield Poltergeist Real Voice Recordings (Bill)",
+          "url": "https://www.youtube.com/watch?v=_OWgImgIRic",
+          "description": "Unexplained videos",
+          "license": ""
         }
       ]
     }
