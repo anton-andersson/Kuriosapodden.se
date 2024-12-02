@@ -690,8 +690,20 @@
       ],
       "sources": [
         {
-          "title": "",
-          "url": ""
+          "title": "Wikipedia - Gösta 'Pollenkungen' Carlsson",
+          "url": "https://sv.wikipedia.org/wiki/Gösta_Pollenkungen_Carlsson"
+        },
+        {
+          "title": "Wikipedia - Rendlesham Forest incident",
+          "url": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident"
+        },
+        {
+          "title": "Ian Ridpath - The Rendlesham Forest UFO Case",
+          "url": "http://www.ianridpath.com/ufo/rendlesham.html"
+        },
+        {
+          "title": "Wikipedia - Die Glocke",
+          "url": "https://en.wikipedia.org/wiki/Die_Glocke_(conspiracy_theory)"
         }
       ],
       "sounds": [
@@ -706,6 +718,88 @@
           "url": "https://en.wikipedia.org/wiki/File:Rendelsham.ogg",
           "description": "Audio recording made by Lt. Col. Charles Halt during the second sighting of the Rendlesham Forest UFO. The Lt. Col. Charles Halt made the recording on a Dictaphone. There are many gaps in the recording as he switched the machine on and off; although the tape itself lasts less than 18 minutes it covers activities over a period of hours.",
           "license": "This file is in the public domain because it's a declassified audio document from the Ministry of Defence (United Kingdom)."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Avsnitt 12: Påvar och deras upptåg",
+      "intro": "I kuriosas tolfte avsnitt behandlar Anton och Tim olika påvar genom historien.",
+      "date": "2024-12-02",
+      "category": [
+        "history"
+      ],
+      "image": "./images/Episode12.jpg",
+      "text": [
+        "Enligt rutin börjar Anton med ett intro. I detta intro får lyssnaren lära sig bland annat: Vad påven gör, varför påven är viktig och slutligen får Tim testa på processen att bli påve!",
+        "Efter att introt är färdigt och Tim har vandrat hela vägen till toppen av den katolska kyrkan är det också hans tur att behandla en skandal från 800-talet. Här har en påve, i ett försök att 'göra upp med korruptionen i kyrkan', grävt upp sin företrädares lik för att ställa honom inför rätta.",
+        "Efter att Tim är klar med sin påve är det Antons tur och han går genom en av de mest ökända påvarna, påve Alexander VI. Innan skandalerna börjar får lyssnaren en genomgång av de påvarna som kom och gick under Alexanders 'rise to power'.",
+        "Också i avsnittet: lik, incest, maktspel, Tim säger 'Jag är påve', korruption och mycket mera!"
+      ],
+      "sources": [
+        {
+          "title": "Wikipedia - Pope",
+          "url": "https://en.wikipedia.org/wiki/Pope"
+        },
+        {
+          "title": "Wikipedia - Kardinal",
+          "url": "https://sv.wikipedia.org/wiki/Kardinal"
+        },
+        {
+          "title": "Sveriges Kristna Råd - Katolska kyrkan",
+          "url": "https://www.skr.org/kristen-tro/kyrkorna/katolska-kyrkan/"
+        },
+        {
+          "title": "CGP Grey - How to become Pope",
+          "url": "https://www.youtube.com/watch?v=kF8I_r9XT7A"
+        },
+        {
+          "title": "CGP Grey - Vatican City Explained",
+          "url": "https://www.youtube.com/watch?v=OPHRIjI3hXs"
+        },
+        {
+          "title": "New Advent - Pope Stephen (VI) VII",
+          "url": "https://www.newadvent.org/cathen/14289d.htm"
+        },
+        {
+          "title": "Wikipedia - Stefan VI",
+          "url": "https://sv.wikipedia.org/wiki/Stefan_VI"
+        },
+        {
+          "title": "Wikipedia - Pope Alexander VI",
+          "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VI"
+        },
+        {
+          "title": "Wikipedia - House of Borgia",
+          "url": "https://en.wikipedia.org/wiki/House_of_Borgia"
+        },
+        {
+          "title": "Wikipedia - Cesare Borgia",
+          "url": "https://en.wikipedia.org/wiki/Cesare_Borgia"
+        },
+        {
+          "title": "Wikipedia - Lucrezia Borgia",
+          "url": "https://en.wikipedia.org/wiki/Lucrezia_Borgia"
+        },
+        {
+          "title": "Wikipedia - Banquet of Chestnuts",
+          "url": "https://en.wikipedia.org/wiki/Banquet_of_Chestnuts"
+        },
+        {
+          "title": "New Advent - Pope Alexander VI",
+          "url": "https://www.newadvent.org/cathen/01289a.htm"
+        },
+        {
+          "title": "Johann Burchard - Pope Alexander VI and his court : extracts from the Latin diary of Johannes Burchardus",
+          "url": "https://archive.org/details/PopeAlexanderVIAndHisCourt/page/n189/mode/2up"
+        }
+      ],
+      "sounds": [
+        {
+          "title": "Something Elated",
+          "url": "https://freemusicarchive.org/music/Broke_For_Free/contact",
+          "description": "Broke For Free",
+          "license": "is licensed under a Attribution 3.0 United States License"
         }
       ]
     }
